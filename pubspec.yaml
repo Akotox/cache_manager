@@ -1,0 +1,20 @@
+name: cache_manager
+description: "A flutter cache manager for storing and retrieving data with Sembast."
+version: 0.0.1
+homepage: https://github.com/Akotox/cache_manager
+repository: https://github.com/Akotox/cache_manager
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.4
+  sembast: ^3.7.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
