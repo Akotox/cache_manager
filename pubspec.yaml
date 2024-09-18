@@ -1,4 +1,4 @@
-name: api_cache_manager
+name: nosql_cache_manager
 description: "A flutter cache manager for storing and retrieving data with Sembast."
 version: 0.0.1
 homepage: https://github.com/Akotox/cache_manager
